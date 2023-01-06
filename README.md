@@ -4,9 +4,9 @@
 
 <hr>
 
-🌐 [View the live site](https://spirit-101.github.io/clipboard-landing-page/)
+🌐 [View the live site](https://spirit-101.github.io/huddle-landing-page-w-alternating-feature-blocks/)
 
-🧠 [Check out the solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-bcebJ-jbEW)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-l4kbZJ1gde)
 
 📝 [View the challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
 
