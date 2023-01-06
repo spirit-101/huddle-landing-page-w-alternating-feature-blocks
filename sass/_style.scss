@@ -329,6 +329,7 @@ header {
   }
 
   &__info-box {
+    font-style: normal;
     margin-right: rem(75px);
 
     @include respond(phone) {
